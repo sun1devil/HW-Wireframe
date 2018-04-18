@@ -15,6 +15,7 @@ header{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     padding: 1%;
+    margin-top: 1%;
     margin-left: 15%;
     margin-bottom:10px;
     }
@@ -46,7 +47,6 @@ header{
         }
 
     #aside{
-    height: 25%;
     Background-color: #ebebeb; 
     color: #777;
     text-align: center;
